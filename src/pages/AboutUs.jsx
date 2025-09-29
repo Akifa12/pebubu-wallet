@@ -113,14 +113,14 @@ export default function AboutUs() {
         <div className="flex flex-col sm:flex-row gap-8 sm:gap-12 md:gap-20 justify-center mt-4">
           <div className="flex flex-col items-center gap-4 md:gap-5">
             <img src="/logos/twitter.png" alt="Twitter" className="w-[32px] h-[32px] sm:w-[35px] sm:h-[35px]" />
-            <a href="https://twitter.com/verasitytech" target="_blank" rel="noreferrer"
+            <a href="https://x.com/Pebububcrypto" target="_blank" rel="noreferrer"
                className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[13px] sm:text-[14px] font-medium leading-[34px] py-[8px] sm:py-[10px] px-[20px] sm:px-[24px] flex items-center gap-1 hover:border-blue-600 transition-colors">
               Follow <MdOutlineArrowOutward className="w-4 h-4 sm:w-5 sm:h-5 text-gray-700" />
             </a>
           </div>
           <div className="flex flex-col items-center gap-4 md:gap-5">
             <img src="/logos/telegram.png" alt="Telegram" className="w-[32px] h-[32px] sm:w-[35px] sm:h-[35px]" />
-            <a href="https://t.me/verasitytech" target="_blank" rel="noreferrer"
+            <a href="https://t.me/PEBUBUCRYPTO" target="_blank" rel="noreferrer"
                className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[13px] sm:text-[14px] font-medium leading-[34px] py-[8px] sm:py-[10px] px-[20px] sm:px-[24px] flex items-center gap-1 hover:border-blue-600 transition-colors">
               Join <MdOutlineArrowOutward className="w-4 h-4 sm:w-5 sm:h-5 text-gray-700" />
             </a>

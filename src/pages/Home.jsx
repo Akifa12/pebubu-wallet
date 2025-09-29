@@ -133,14 +133,14 @@ const Home = () => {
             <h3 className="text-[24px] leading-[32px] font-bold mb-4">Join our rapidly-growing community and connect with other PEBUBU holders</h3>
             <div className="flex gap-20 justify-center mt-10">
               <div className="flex flex-col items-center gap-3">
-                <img src="/logos/twitter.png" alt="Yahoo" className="w-[35px] h-[35px]" />
-                <a href="https://twitter.com/verasitytech " target="_blank" rel="noreferrer" className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[14px] font-medium leading-[34px] py-[10px] px-[24px]">
+                <img src="/logos/twitter.png" alt="Twitter" className="w-[35px] h-[35px]" />
+                <a href="https://x.com/Pebububcrypto " target="_blank" rel="noreferrer" className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[14px] font-medium leading-[34px] py-[10px] px-[24px]">
                   <span className="flex gap-1">Follow <MdOutlineArrowOutward className="w-[20px] h-[20px] text-gray-700" /></span>
                 </a>
               </div>
               <div className="flex flex-col items-center gap-3">
-                <img src="/logos/telegram.png" alt="Yahoo" className="w-[35px] h-[35px]" />
-                <a href="https://t.me/verasitytech " target="_blank" rel="noreferrer" className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[14px] font-medium leading-[34px] py-[10px] px-[24px]">
+                <img src="/logos/telegram.png" alt="telegram" className="w-[35px] h-[35px]" />
+                <a href="https://t.me/PEBUBUCRYPTO" target="_blank" rel="noreferrer" className="border border-[#cfd4d8] rounded-[4px] text-blue-600 text-[14px] font-medium leading-[34px] py-[10px] px-[24px]">
                   <span className="flex gap-1">Join <MdOutlineArrowOutward className="w-[20px] h-[20px] text-gray-700" /></span>
                 </a>
               </div>

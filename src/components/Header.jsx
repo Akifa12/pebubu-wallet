@@ -17,6 +17,7 @@ const Header = () => {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex space-x-4 items-center">
+          <NavLink to="/" className="text-white hover:underline">Home</NavLink>
           <NavLink to="/about-us" className="text-white hover:underline">About us</NavLink>
           <NavLink to="/terms" className="text-white hover:underline">Terms</NavLink>
           <NavLink to="/privacy-policy" className="text-white hover:underline">Privacy</NavLink>

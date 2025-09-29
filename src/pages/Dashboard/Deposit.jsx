@@ -27,7 +27,7 @@ const Deposit = () => {
       <h2 className=" font-medium mb-4 flex gap-5 items-center"><NavLink to="/dashboard/wallet"><FaArrowLeft className=" cursor-pointer "  /></NavLink> <span className="text-2xl">Deposit</span></h2>
       <div className="flex w-full justify-between" >
       <div className="bg-white shadow rounded-lg p-6 max-w-[520px]">
-        <p className="mb-4 text-[16px] font-bold leading-[24px] ">Send CHEER to the following address:</p>
+        <p className="mb-4 text-[16px] font-bold leading-[24px] ">Send PEBUBU to the following address:</p>
         <div className="bg-gray-100 p-4 border-gray-600 border flex justify-between rounded mb-4">
           <code>{depositAddress}</code>
           <div className="" >
