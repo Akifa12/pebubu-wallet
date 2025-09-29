@@ -129,6 +129,15 @@ margin-top: 50px;
 .logo-conatiner .logo-text {
   color: white !important;
 }
+.inner-text-container{
+  max-width: 33rem;
+}
+.about-us-wrapper .logo-text {
+  color: white !important;
+}
+.logo-conatiner .logo-text {
+  color: white !important;
+}
 /* ===== PICTURE-MATCH  ORANGE → PURPLE  GLOW ===== */
 .all-pages-bg {
   background: none;                          /* strip old blue */
