@@ -1,0 +1,2 @@
+export const API_ERROR_EMAIL_ALREADY_EXISTS = 0x1001;
+
