@@ -9,11 +9,11 @@ const Header = () => {
   return (
     <header className="relative mb-8 px-4">
       <div className="flex items-center justify-between">
-        {/* Logo */}
-        <h1 className="text-3xl font-bold flex text-white">
+        {/* Logo – now clickable to Home */}
+        <NavLink to="/" className="text-3xl font-bold flex text-white">
           <BsWallet2 className='w-[40px] h-[40px] text-white mr-4' />
           PEBUBU<span className='text-blue-800 logo-text'>Wallet</span>
-        </h1>
+        </NavLink>
 
         {/* Desktop nav */}
         <nav className="hidden md:flex space-x-4 items-center">
