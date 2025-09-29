@@ -169,27 +169,12 @@ button.bg-blue-500 {
 button:hover.bg-blue-600 {
   background-color: #6a28c0 !important;   /* darker on hover */
 }
-
-/* --- OPTION B  :  TEAL  --- */
-/* uncomment (remove the * and /) if you want teal instead
-.bg-blue-500,
-button.bg-blue-500 {
-  background-color: #14b8a6 !important;   // teal-500
+/* ===== PE B U B U purple  |  W A L L E T orange ===== */
+.inner-pages h1,
+.inner-pages .logo-text {
+  color: #7d3bdb !important;        /* PE B U B U → purple */
 }
-.bg-blue-600:hover,
-button:hover.bg-blue-600 {
-  background-color: #0d9488 !important;   // teal-600
+.inner-pages h1 span:last-child,   /* jo “Wallet” word hai */
+.inner-pages .logo-text span {
+  color: #ff6a00 !important;        /* W A L L E T → orange */
 }
-*/
-
-/* --- OPTION C  :  HOT-PINK  --- */
-/* uncomment if you want hot-pink
-.bg-blue-500,
-button.bg-blue-500 {
-  background-color: #ec4899 !important;   // pink-500
-}
-.bg-blue-600:hover,
-button:hover.bg-blue-600 {
-  background-color: #db2777 !important;   // pink-600
-}
-*/
