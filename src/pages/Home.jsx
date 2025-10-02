@@ -28,7 +28,7 @@ const Home = () => {
                 A simple and secure wallet to earn, buy, store and stake PEBUBU
               </h2>
               <p className="mb-6 text-[16px] md:text-[18px] leading-[24px] md:leading-[28px] font-medium text-white/90">
-                Join over PEBUBU holders earning 15% staking rewards per year
+                Join over PEBUBU holders earning 47.5% staking rewards per year
               </p>
               <NavLink
                 to="/signup"
@@ -56,11 +56,11 @@ const Home = () => {
           {/* price boxes */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-center">
             <div>
-              <p className="text-[32px] leading-[40px] font-bold">$0.004303</p>
+              <p className="text-[32px] leading-[40px] font-bold">$-----</p>
               <p className="text-[18px] font-medium leading-[28px] text-[#7e7d87]">PEBUBU price</p>
             </div>
             <div>
-              <p className="text-[32px] leading-[40px] font-bold">15%</p>
+              <p className="text-[32px] leading-[40px] font-bold">47.5%</p>
               <p className="text-[18px] font-medium leading-[28px] text-[#7e7d87]">Staking reward</p>
             </div>
           </div>
@@ -104,7 +104,7 @@ const Home = () => {
               <div className="col-span-1 flex flex-col items-center gap-3">
                 <GrStakeholder className="w-[30px] h-[30px]" />
                 <p className="font-bold text-[20px] leading-[28px]">Stake and earn</p>
-                <p className="mt-2 leading-[24px] opacity-80">Stake PEBUBU and Earn 15% per year in staking rewards</p>
+                <p className="mt-2 leading-[24px] opacity-80">Stake PEBUBU and Earn 47.5% per year in staking rewards</p>
               </div>
             </div>
             <div className="mt-10 w-full flex justify-center">

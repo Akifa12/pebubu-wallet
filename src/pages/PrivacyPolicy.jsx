@@ -135,7 +135,7 @@ export default function PrivacyPolicy() {
                 </section>
                 <section class="py-2">
                     <h2 className="text-[18px] leading-[24px] font-bold py-[12px] ">9. How to Contact Us</h2>
-                    <p className=" pb-10 ">If you have any questions or comments about this Notice or any issue relating to how we collect, use, or disclose personal data, or if you would like us to update information, we have about you, you may contact us by e-mail at: <a href="mailto:support@verasity.io">support@PEBUBUwallet.com</a>
+                    <p className=" pb-10 ">If you have any questions or comments about this Notice or any issue relating to how we collect, use, or disclose personal data, or if you would like us to update information, we have about you, you may contact us by e-mail at: <a href="mailto:support@pebubustaking.com">support@pebubustaking.com</a>
                     </p>
                 </section>
             </div>

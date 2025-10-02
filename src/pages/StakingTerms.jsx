@@ -23,15 +23,15 @@ export default function StakingTerms() {
                     <div className="ineer_about">
                     <div className="flex flex-col gap-4 ">
                 <h1 className="text-[32px] leading-[40px] font-bold ">PEBUBU Staking Program Terms and Conditions</h1>
-                <p className="text-gray-700 text-[12px] leading-[16px] font-medium ">Last Updated: 5 August 2021</p>
+                <p className="text-gray-700 text-[12px] leading-[16px] font-medium ">Last Updated: October 2025</p>
             </div>
                 <div class="mt-10 flex flex-col gap-14 ">
                     <section class="py-2">
                         <h2 className="text-[18px] leading-[24px] font-bold py-[12px]">1. About Us</h2>
                         <p className="py-3">
-                            <b>1.1 Company details:</b> PEBUBU Limited (Token Generator) (we and us) is a company registered in Costa Rica and our registered address is Office 214. Escazú Avenue, Lexus Tower, 3rd Floor, Escazú, San José, Costa Rica.
+                            <b>1.1 Company details:</b> PEBUBU Limited (Token Generator) (we and us) Pebubu is a company not registered in any jurisdiction and operates under the Decentralized Finance definition.
                         </p>
-                        <p className="py-3"><b>1.2 Contacting us:</b> To contact us e-mail <a href="mailto:support@verasity.io">support@verasity.io</a>.</p>
+                        <p className="py-3"><b>1.2 Contacting us:</b> To contact us e-mail <a href="support@pebubustaking.com">support@pebubustaking.com</a>.</p>
                     </section>
                     <section class="py-2">
                         <h2 className="text-[18px] leading-[24px] font-bold py-[12px]">2. Our Contract With You</h2>
@@ -42,7 +42,7 @@ export default function StakingTerms() {
                     </section>
                     <section class="py-2">
                         <h2 className="text-[18px] leading-[24px] font-bold py-[12px]">3. Placing an Order and Its Acceptance</h2>
-                        <p className="py-3"><b>3.1 Placing your Order:</b> You may only apply to take a stake in the Staking Program if you are 18 years old or over and it is lawful for you to do so. You must not apply if you are resident in the USA or the Cayman Islands. We may require you to provide us with identification or other documentation in order to help us prevent fraud or money laundering. This may include photographic identification and a recent proof of address. We may also undertake our own identity, fraud and credit checks. You may only submit an order using the method set out on the site. Each order is an offer by you to participate in the Staking Program with the number of Tokens set out in your order.</p>
+                        <p className="py-3"><b>3.1 Placing your Order:</b> You may only apply to take a stake in the Staking Program if you are 18 years old or over and it is lawful for you to do so. We may require you to provide us with identification or other documentation in order to help us prevent fraud or money laundering. This may include photographic identification and a recent proof of address. We may also undertake our own identity, fraud and credit checks. You may only submit an order using the method set out on the site. Each order is an offer by you to participate in the Staking Program with the number of Tokens set out in your order.</p>
                         <p className="py-3"><b>3.2 Correcting input errors:</b> Please check the order carefully before confirming it. You are responsible for ensuring that your order and any specification submitted by you is complete and accurate.</p>
                         <p className="py-3"><b>3.3 Acknowledging receipt of your order:</b> After you place your order by clicking on the Acceptance button in the PEBUBU Wallet application, our acceptance of your order will take place as described in Clause 3.4.</p>
                         <p className="py-3"><b>3.4 Accepting your order:</b> Our acceptance of your order takes place when you click on the Acceptance button in the PEBUBU Wallet application (Order Confirmation), at which point and on which date (Commencement Date) the Contract between you and us will come into existence. The Contract will relate only to those Tokens confirmed in the Order Confirmation subject to clause 11 below.</p>

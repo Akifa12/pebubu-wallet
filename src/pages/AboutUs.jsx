@@ -33,7 +33,7 @@ export default function AboutUs() {
 
         {/* Description - Responsive text */}
         <p className="my-4 md:my-5 text-[15px] sm:text-[16px] md:text-[18px] leading-[22px] sm:leading-[24px] md:leading-[28px] max-w-full md:max-w-[620px] text-white">
-          Through the VeraViews ecosystem and Verasity's patented PoV module, we're transforming the black-box ad fraud industry.
+          Stake smarter, earn easier. With PEBUBU Wallet, your crypto works harder for you — securely, transparently, and profitably.
         </p>
 
         {/* Button - Full width on mobile */}
@@ -46,19 +46,7 @@ export default function AboutUs() {
 
         {/* Stats Row - Responsive spacing and text */}
         <div className="mt-10 md:mt-16 w-full grid grid-cols-1 sm:grid-cols-3 gap-6 md:gap-8 text-center">
-          <div>
-            <p className="text-[28px] sm:text-[32px] leading-[36px] sm:leading-[40px] font-bold text-white">300,000+</p>
-            <p className="text-[16px] sm:text-[18px] font-medium leading-[24px] sm:leading-[28px] text-white/80">PEBUBU price</p>
-          </div>
-          <div>
-            <p className="text-[28px] sm:text-[32px] leading-[36px] sm:leading-[40px] font-bold text-white">660,000+</p>
-            <p className="text-[16px] sm:text-[18px] font-medium leading-[24px] sm:leading-[28px] text-white/80">Staking reward</p>
-          </div>
-          <div>
-            <p className="text-[28px] sm:text-[32px] leading-[36px] sm:leading-[40px] font-bold text-white">6</p>
-            <p className="text-[16px] sm:text-[18px] font-medium leading-[24px] sm:leading-[28px] text-white/80">Awarded Patents</p>
-          </div>
-        </div>
+                  </div>
       </div>
 
       {/* ===== Content Section - Responsive ===== */}
@@ -106,7 +94,7 @@ export default function AboutUs() {
         <h2 className="text-[32px] sm:text-[36px] md:text-[40px] leading-[40px] sm:leading-[44px] md:leading-[48px] font-bold text-center">Our Community</h2>
         <p className="text-gray-800 text-[14px] sm:text-[15px] md:text-[16px] leading-[22px] sm:leading-[23px] md:leading-[24px] font-medium text-center max-w-[90%] md:max-w-full">
           Join one of the fastest-growing communities in blockchain.<br />
-          We are an international community of over 500,000 PEBUBU members. Join us here:
+          We are an international community and growing our PEBUBU Army. Join us here:
         </p>
         
         {/* Social Links - Stack on mobile */}

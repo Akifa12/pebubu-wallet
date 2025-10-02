@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 
 const StakingCalculator = () => {
 
-    const [stakingAmount, setStakingAmount] = useState(10000);
+    const [stakingAmount, setStakingAmount] = useState(100000);
     const [termInMonths, setTermInMonths] = useState(1);
-    const stakingRate = 0.15; // 15% annual rate
+    const stakingRate = 0.475; // 47.5% annual rate
   
     const calculateDailyRewards = () => {
       const annualRewards = stakingAmount * stakingRate;
@@ -33,7 +33,7 @@ const StakingCalculator = () => {
         <div className="mt-5 p-6 bg-white rounded-lg shadow flex flex-col items-center w-full md:max-w-[430px] md:gap-4  ">
         <div className='w-full justify-between flex ' >
             <div className=" opacity-80 ">Staking rewards: </div>
-            <div className="font-bold ">15%</div>
+            <div className="font-bold ">47.5%</div>
         </div>
         <div className='w-full justify-between flex ' >
             <div className="  opacity-80 ">Staking amount</div>
@@ -43,7 +43,7 @@ const StakingCalculator = () => {
             <input 
             id="staking-amount"
             type="range"
-            min="10000"
+            min="100000"
             max="200000000"
             step="1000"
             value={stakingAmount}
@@ -51,7 +51,7 @@ const StakingCalculator = () => {
             className="w-full mb-1"
             />
             <div className='w-full justify-between flex text-[12px] text-gray-700 ' >
-                <div className="">10,000</div>
+                <div className="">100,000</div>
                 <div className="">200,000,000</div>
             </div>
         </div>
